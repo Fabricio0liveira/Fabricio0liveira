@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fabricio0liveira](https://github.com/Fabricio0liveira)
 
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT, NODE and MySQL.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, REACT NATIVE, MySQL and DELPHI.
 
 - 📫 How to reach me **fabriciooh22@gmail.com**
 
